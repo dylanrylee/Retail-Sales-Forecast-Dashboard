@@ -27,3 +27,6 @@ Prophet: Time-series forecasting
 Power BI Desktop: Dashboard creation
 
 Power BI Template (.pbit): Shareable and reusable report format
+
+### Dataset
+https://www.kaggle.com/datasets/tevecsystems/retail-sales-forecasting?resource=download
