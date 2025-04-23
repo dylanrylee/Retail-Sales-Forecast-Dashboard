@@ -1,6 +1,6 @@
 # Retail-Sales-Forecast-Dashboard
 
-##Retail Sales Forecasting Dashboard (Power BI + Prophet)
+## Retail Sales Forecasting Dashboard (Power BI + Prophet)
 ### Overview
 - This project uses Python’s Prophet library to forecast future retail sales and visualizes the results through a dynamic Power BI dashboard.
 
